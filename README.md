@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm stock market invester<br>I'm python developer
+I'm python developer
 
 
 ## 🌐 Socials:
